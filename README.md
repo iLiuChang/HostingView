@@ -1,2 +1,2 @@
-# UIHostingView
+# HostingView
 Similar to UIHostingController in SwiftUI.
